@@ -1,10 +1,10 @@
-# 👾XP-TNBOT👾
+# 👾SAD-BOY👾
 BOT WHATSAPP TERMUX ONLY BY XP-TN
 <p align="center">
 <img src = "https://avatars3.githubusercontent.com/u/49530313?s=460&u=086c7b0d17c5b8e906200d810e88587f5c98e349&v=4" width="320">
 </p>
 <p align="center">
-<a href="#"><img title="👾XP-TN👾" src="https://img.shields.io/badge/XP-TN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="👾SADBOY👾" src="https://img.shields.io/badge/XP-TN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/XP-TN"><img title="XP-TNNBOT" src="https://img.shields.io/badge/AUTHOR-XP-TN ID-orange.svg?style=for-the-badge&logo=github"></a>
@@ -44,7 +44,7 @@ Siapin alat dan bahannya.
 ```
 
 ##Full Tools Pribadi script😊
-Thanks To Xp-tn for share script🛡
+Thanks To SAD-BOY for share script🛡
 ```bash
 >Jika error harap lapor ke owner pembuat skript
 > dan jika ada bug harap lapor ya😊
@@ -53,14 +53,14 @@ Thanks To Xp-tn for share script🛡
 
 
 ### Informasi Pengguna
-Script ini di modifikasi sama saya sendiri XP-TN
+Script ini di modifikasi sama saya sendiri SAD-BOY
 ```bash
 > Support My Github😘
 > Jangan Lupa follow github saya🤗
 > jika error lapor ke Pembuat script chat wa link ada di github 
 ```
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri XP-TN.
+Script ini di modifikasi sama saya sendiri SADBOY.
 ```bash
 kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
@@ -92,7 +92,7 @@ Github ini dan support😅
 ```
 ## Features
 
-| XP-TNBOT      |                   Feature        |
+| SAD-xBOY      |                   Feature        |
  :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
