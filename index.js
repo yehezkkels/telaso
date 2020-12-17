@@ -6,12 +6,12 @@
 * reupload izin anjg gua gua cape buat nya!!
 * ini script pribadi gua!!
 */
-const XPTN = '👾XP-TN👾'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/mragung23'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6289655478810'; // Nomor whatsapplu cok
+const XPTN = '👾SAD-BOY👾'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/eelpanteq_'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6281310168655'; // Nomor whatsapplu cok
 const aktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const groupwa = 'https://chat.whatsapp.com/GDdd0I3WlF5LnMVifmS7rN'; // OFFICIAL GRUP LU 1
-const youtube = 'https://www.youtube.com/channel/UCMiQsqzWvj-zKxNlFlG_Wiw'; // OFFICIAL GRUP LU 2
+const groupwa = 'https://chat.whatsapp.com/D6gflzSfpOU65rBNnvtkkg'; // OFFICIAL GRUP LU 1
+const youtube = 'https://www.youtube.com/channel/UC75SUzfjOk3amH31y_yh3Xw'; // OFFICIAL GRUP LU 2
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
